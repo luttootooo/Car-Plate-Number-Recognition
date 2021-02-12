@@ -1,1 +1,3 @@
 # Car-Plate-Number-Recognition
+
+<br> This project was my team's final project for Digital Image Processing course. It aimed to build a model that is able to recognize the number/character on car plate. The dataset was taken from Kaggle. Our project used mixed techniques, like transfer learning and the OCR concept to solve the problem. I was in charge of preparing the dataset by selecting the proper images to be used from around 500 images and performing some DIP algorithms to increase the image quality, like convolution for sharpening, before passing them to the next step, such as localization, segmentation, and last, OCR. The model failed to recognize some of the car plates due to the number of dataset used.
